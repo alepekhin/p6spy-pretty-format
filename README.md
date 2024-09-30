@@ -5,9 +5,9 @@ modified to work with Kedr 3.0 grails app
 
 ## How to build
 
-'''
+```
 mvn clean package
-'''
+```
 
 ## How to use
 
